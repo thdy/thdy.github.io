@@ -6,61 +6,6 @@
     <description>Recent content in Tags on THDY LOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>thdy00@gmail.com (thdy)</managingEditor>
-    <webMaster>thdy00@gmail.com (thdy)</webMaster>
-    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://www.thdy.jp/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>example</title>
-      <link>https://www.thdy.jp/tags/example/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>thdy00@gmail.com (thdy)</author>
-      <guid>https://www.thdy.jp/tags/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>photoswipe</title>
-      <link>https://www.thdy.jp/tags/photoswipe/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>thdy00@gmail.com (thdy)</author>
-      <guid>https://www.thdy.jp/tags/photoswipe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bigimg</title>
-      <link>https://www.thdy.jp/tags/bigimg/</link>
-      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      <author>thdy00@gmail.com (thdy)</author>
-      <guid>https://www.thdy.jp/tags/bigimg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://www.thdy.jp/tags/math/</link>
-      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <author>thdy00@gmail.com (thdy)</author>
-      <guid>https://www.thdy.jp/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>https://www.thdy.jp/tags/code/</link>
-      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
-      <author>thdy00@gmail.com (thdy)</author>
-      <guid>https://www.thdy.jp/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://www.thdy.jp/tags/markdown/</link>
-      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
-      <author>thdy00@gmail.com (thdy)</author>
-      <guid>https://www.thdy.jp/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
+    <webMaster>thdy00@gmail.com (thdy)</webMaster><atom:link href="https://www.thdy.jp/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
